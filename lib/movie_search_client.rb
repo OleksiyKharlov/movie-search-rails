@@ -1,0 +1,2 @@
+class MovieSearchClient
+end
